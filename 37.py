@@ -1,5 +1,5 @@
 x,y=map(int,raw_input().split())
-num1=int(x)
-num2=int(y)
-num1,num2=num2,num1
-print num1,num2
+n1=int(x)
+n2=int(y)
+n1,n2=n2,n1
+print n1,n2
