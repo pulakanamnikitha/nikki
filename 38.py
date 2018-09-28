@@ -1,5 +1,5 @@
-x,y=map(int,raw_input().split())
-x=x^y
-y=x^y
-x=x^y
-print x,y
+s,n=map(int,raw_input().split())
+s=s^n
+n=s^n
+s=s^n
+print s,n
