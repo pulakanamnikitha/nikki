@@ -1,0 +1,5 @@
+a=int(raw_input())
+if a%2==0:
+    print a
+else:
+    print a-1
