@@ -1,2 +1,2 @@
-p,q=map(str,raw_input().split())
-print(p[:int(q)])
+a,b=map(str,raw_input().split())
+print(a[:int(b)])
